@@ -1,6 +1,6 @@
 <?php
 /**
- * Magento
+ * Magento dupa kupa
  *
  * NOTICE OF LICENSE
  *
